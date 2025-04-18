@@ -130,4 +130,4 @@ The full report (`report/report.pdf`) provides detailed methodology, model archi
 This project is licensed under the MIT License.
 
 ## Contact
-For questions, please contact shlok kanani at shlokjk1234@gmail.com.
+For questions, please contact shlok kanani at shlokiitj5@gmail.com.
